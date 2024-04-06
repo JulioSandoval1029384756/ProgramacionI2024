@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\bin\Debug\net8.0\Preoyecto.exe
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\bin\Debug\net8.0\Preoyecto.deps.json
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\bin\Debug\net8.0\Preoyecto.runtimeconfig.json
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\bin\Debug\net8.0\Preoyecto.dll
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\bin\Debug\net8.0\Preoyecto.pdb
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.AssemblyInfo.cs
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.dll
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\refint\Preoyecto.dll
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.pdb
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\Preoyecto.genruntimeconfig.cache
+C:\Users\user\Desktop\semana7\Preoyecto\Preoyecto\obj\Debug\net8.0\ref\Preoyecto.dll
